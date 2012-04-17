@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MvcApplication1.Models.MarketEvent>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Company
+        </th>
+        <th>
+            Campaign
+        </th>
+        <th>
+            CampaignType
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            StartDate
+        </th>
+        <th>
+            EndDate
+        </th>
+        <th>
+            RowGuid
+        </th>
+        <th>
+            EventStatus
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Company.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Campaign)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CampaignType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RowGuid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EventStatus)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MarketEventId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MarketEventId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MarketEventId })
+        </td>
+    </tr>
+}
+
+</table>

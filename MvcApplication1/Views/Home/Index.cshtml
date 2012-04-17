@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    List of mail codes from cache. You can make changes and see i
+</p>
+
+@{ var items = (string[])ViewBag.Mailcodes;
+   
+   
+   
+}
+
+<ul>
+@if (items != null)
+{ 
+    foreach (string s in items)
+    {<li>@s</li>}
+}
+</ul>

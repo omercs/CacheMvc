@@ -1,0 +1,10 @@
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\NLog.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\bin\Debug\NLog.xml
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb

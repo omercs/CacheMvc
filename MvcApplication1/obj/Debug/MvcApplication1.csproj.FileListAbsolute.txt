@@ -1,0 +1,9 @@
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\MvcApplication1.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\MvcApplication1.pdb
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\EntityFramework.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\NLog.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\EntityFramework.xml
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\bin\NLog.xml
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Development\BlogMaterial\CacheMvc\MvcApplication1\obj\Debug\MvcApplication1.pdb

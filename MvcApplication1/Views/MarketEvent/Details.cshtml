@@ -1,0 +1,55 @@
+﻿@model MvcApplication1.Models.MarketEvent
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>MarketEvent</legend>
+
+    <div class="display-label">Company</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Company.Name)
+    </div>
+
+    <div class="display-label">Campaign</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Campaign)
+    </div>
+
+    <div class="display-label">CampaignType</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CampaignType)
+    </div>
+
+    <div class="display-label">Description</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+
+    <div class="display-label">StartDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.StartDate)
+    </div>
+
+    <div class="display-label">EndDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EndDate)
+    </div>
+
+    <div class="display-label">RowGuid</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RowGuid)
+    </div>
+
+    <div class="display-label">EventStatus</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EventStatus)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.MarketEventId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
