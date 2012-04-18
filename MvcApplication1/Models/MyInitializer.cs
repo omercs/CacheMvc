@@ -25,16 +25,16 @@ CREATE TABLE [dbo].[CacheTrack](
             
         public static string TableErrorLog =
             @" 
-CREATE TABLE [dbo].[ErrorLog](
-	[id] [int] IDENTITY(1,1) NOT NULL primary key,
-	[UserName] [nvarchar](50) NULL,
-	[ErrorNumber] [int] NULL,
-	[ErrorSeverity] [int] NULL,
-	[ErrorState] [int] NULL,
-	[ErrorProcedure] [nvarchar](50) NULL,
-	[ErrorLine] [int] NULL,
-	[ErrorMessage] [nvarchar](2000) NULL )  
-";
+    CREATE TABLE [dbo].[ErrorLog](
+	    [id] [int] IDENTITY(1,1) NOT NULL primary key,
+	    [UserName] [nvarchar](50) NULL,
+	    [ErrorNumber] [int] NULL,
+	    [ErrorSeverity] [int] NULL,
+	    [ErrorState] [int] NULL,
+	    [ErrorProcedure] [nvarchar](50) NULL,
+	    [ErrorLine] [int] NULL,
+	    [ErrorMessage] [nvarchar](2000) NULL )  
+    ";
 
         public static string ProcPrintError = @"
  

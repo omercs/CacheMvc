@@ -8,13 +8,53 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="1071" fromTop="28" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/f:Global.asax.cs" caret="1302" fromTop="40" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Utils/f:StringExtensions.cs" caret="221" fromTop="9" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/f:Web.config" caret="538" fromTop="11" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Home/f:Index.cshtml" caret="263" fromTop="18" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:MarketEvent/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Shared/f:_Layout.cshtml" caret="890" fromTop="22" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:BaseController.cs" caret="460" fromTop="14" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:MarketEvent/f:Create.cshtml" caret="2144" fromTop="34" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:SampleDb.cs" caret="1088" fromTop="37" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:MarketEvent/f:Edit.cshtml" caret="2196" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="2449" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="7331" fromTop="23" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="4052" fromTop="49" />
     </RecentFiles>
     <RecentEdits>
-      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="2332" fromTop="23" />
-      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="3317" fromTop="50" />
-      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="420" fromTop="7" />
-      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="563" fromTop="17" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="472" fromTop="7" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Home/f:Index.cshtml" caret="219" fromTop="15" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Home/f:Index.cshtml" caret="140" fromTop="6" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="2472" fromTop="42" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="1608" fromTop="25" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/f:Web.config" caret="438" fromTop="12" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="1903" fromTop="28" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="3145" fromTop="29" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/f:Web.config" caret="538" fromTop="11" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="6646" fromTop="33" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="5806" fromTop="33" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="449" fromTop="11" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="9564" fromTop="34" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="8825" fromTop="0" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="9688" fromTop="18" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="7792" fromTop="23" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:SampleDb.cs" caret="6247" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Home/f:Index.cshtml" caret="263" fromTop="18" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:Shared/f:_Layout.cshtml" caret="890" fromTop="22" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:BaseController.cs" caret="460" fromTop="14" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="295" fromTop="11" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:HomeController.cs" caret="773" fromTop="33" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="365" fromTop="13" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:MarketEvent/f:Create.cshtml" caret="2144" fromTop="34" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="1298" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Views/d:MarketEvent/f:Edit.cshtml" caret="2196" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="2563" fromTop="22" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="2564" fromTop="28" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Controllers/f:MarketEventController.cs" caret="2449" fromTop="24" />
+      <File id="3301D534-B6DF-4659-8936-2EFF99EEEDBF/d:Models/f:MyInitializer.cs" caret="831" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -27,4 +67,115 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="32" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="static" priority="16" />
+      <Item value="int" priority="5" />
+      <Item value="override" priority="0" />
+      <Item value="modelBuilder" priority="0" />
+      <Item value="string" priority="9" />
+      <Item value="TriggerDeleteMarketEvents" priority="0" />
+      <Item value="TriggerUpdateMarketEvents" priority="0" />
+      <Item value="TableErrorLog" priority="0" />
+      <Item value="ProcLogError" priority="1" />
+      <Item value="ProcPrintError" priority="0" />
+      <Item value="StringLength" priority="0" />
+      <Item value="class" priority="3" />
+      <Item value="Company`0" priority="0" />
+      <Item value="Company" priority="1" />
+      <Item value="User`0" priority="0" />
+      <Item value="Customer`0" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="MarketContext`0" priority="0" />
+      <Item value="base" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="connectionstr" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="MvcApplication1" priority="0" />
+      <Item value="Utils" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="entity" priority="1" />
+      <Item value="null" priority="5" />
+      <Item value="context" priority="5" />
+      <Item value="Name" priority="0" />
+      <Item value="User" priority="0" />
+      <Item value="CreatedOn" priority="0" />
+      <Item value="LoginMethod" priority="0" />
+      <Item value="ModifiedOn" priority="0" />
+      <Item value="RefKey" priority="0" />
+      <Item value="UserId" priority="0" />
+      <Item value="marketevent" priority="3" />
+      <Item value="NLogConfigurationException`0" priority="0" />
+      <Item value="DropCreateDatabaseAlways" priority="0" />
+      <Item value="DropCreateDatabaseIfModelChanges" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="LogOnModel`0" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="tablename" priority="0" />
+      <Item value="prop" priority="0" />
+      <Item value="ConnectionStr" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="TryUpdateModel`1" priority="0" />
+      <Item value="db" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="edititem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbModelBuilder">
+      <Item value="Build`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcApplication1.Models.MarketEvent">
+      <Item value="Campaign" priority="0" />
+      <Item value="RowGuid" priority="0" />
+      <Item value="MarketEventId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcApplication1.Models.MarketContext">
+      <Item value="Database" priority="3" />
+      <Item value="Companys" priority="0" />
+      <Item value="Users" priority="0" />
+      <Item value="SaveChanges`0" priority="0" />
+      <Item value="MarketEvents" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.Database">
+      <Item value="SqlQuery`0" priority="0" />
+      <Item value="ExecuteSqlCommand`0" priority="0" />
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MvcApplication1.Models.sp_GetCacheUpdateTime_view">
+      <Item value="UpdateTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="0" />
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="SingleOrDefault`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
